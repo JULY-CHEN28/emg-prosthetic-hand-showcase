@@ -1,0 +1,22 @@
+# Project source and restricted research material stay outside this repository
+private/
+internal/
+dataset/
+data/
+raw_data/
+weights/
+checkpoints/
+*.pth
+*.pt
+*.mat
+*.npz
+*.npy
+*.cal
+*.zip
+*.bak
+.env
+.env.*
+__pycache__/
+.venv*/
+.DS_Store
+Thumbs.db
