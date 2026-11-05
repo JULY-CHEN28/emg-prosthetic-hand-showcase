@@ -6,7 +6,7 @@
 
 采集本人肌电信号后，完成个体化模型训练，并将模型加载至机械手开展在线动作验证。
 
-https://github.com/user-attachments/assets/d5ed74d6-68e8-4f2a-8944-34af993bfda4
+https://github.com/user-attachments/assets/ebbc951f-527f-428c-982d-a776656a96fb
 
 ## 本人主要工作
 

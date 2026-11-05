@@ -1,6 +1,6 @@
 # 模型驱动机械手动作验证
 
-https://github.com/user-attachments/assets/d5ed74d6-68e8-4f2a-8944-34af993bfda4
+https://github.com/user-attachments/assets/ebbc951f-527f-428c-982d-a776656a96fb
 
 [下载演示视频](../media/current-debug-demo.mp4)
 
