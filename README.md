@@ -4,11 +4,11 @@
 
 ## 真机验证
 
-[![模型驱动机械手动作验证](assets/demo-poster.jpg)](media/current-debug-demo.mp4)
+
 
 采集本人肌电信号后，完成个体化模型训练，并将模型加载至机械手开展在线动作验证。
 
-[观看完整视频](media/current-debug-demo.mp4)
+https://github.com/user-attachments/assets/d5ed74d6-68e8-4f2a-8944-34af993bfda4
 
 ## 本人主要工作
 

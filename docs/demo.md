@@ -1,8 +1,8 @@
 # 模型驱动机械手动作验证
 
-[![模型驱动机械手动作验证](../assets/demo-poster.jpg)](../media/current-debug-demo.mp4)
+https://github.com/user-attachments/assets/d5ed74d6-68e8-4f2a-8944-34af993bfda4
 
-[观看完整视频](../media/current-debug-demo.mp4)
+[下载演示视频](../media/current-debug-demo.mp4)
 
 ## 验证流程
 
